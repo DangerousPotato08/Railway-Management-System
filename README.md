@@ -1,6 +1,6 @@
 # Railway Reservation System 🚆
 
-A console-based **Railway Reservation System developed in C++** as a beginner-level college project. The project demonstrates the use of classes, structures, arrays, functions, pointers, loops, conditional statements, and basic data management in C++.
+A console-based **Railway Reservation System developed in C++** as a beginner-level project. The project demonstrates the use of classes, structures, arrays, functions, pointers, loops, conditional statements, and basic data management in C++.
 
 ## Features
 
